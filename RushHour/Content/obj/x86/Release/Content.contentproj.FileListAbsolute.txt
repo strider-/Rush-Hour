@@ -1,0 +1,2 @@
+G:\Visual Studio Projects\2008\RushHour\RushHour\Content\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Visual Studio Projects\2008\RushHour\RushHour\Content\obj\x86\Release\Audio.xml

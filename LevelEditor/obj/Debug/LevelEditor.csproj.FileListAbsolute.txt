@@ -1,0 +1,9 @@
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\bin\Debug\LevelEditor.exe
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\bin\Debug\LevelEditor.pdb
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.Form1.resources
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.exe
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.pdb
+G:\Visual Studio Projects\2008\RushHour\LevelEditor\obj\Debug\LevelEditor.CursorResources.resources
